@@ -1,6 +1,6 @@
 # JPG to PNG Converter
 
-This Python program converts JPG images in one directory and saves them as PNG images in another directory.
+This Python program converts JPG images in one directory and saves them as PNG images in a new directory.
 
 Library used: [Pillow](https://pillow.readthedocs.io/en/stable/)
 
